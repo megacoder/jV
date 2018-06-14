@@ -1,0 +1,21 @@
+2013-10-27  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* : Checkpoint
+
+2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* jv/install.rdf: Changed the FF rev
+
+2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* Makefile: How to do it to it.
+
+2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* version.sed: How to extract the versino from the jv/install.rdf
+	file.
+
+2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+
+	* 0.51
+
