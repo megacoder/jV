@@ -7,7 +7,7 @@ JAR	:=jV-${VERSION}-jtr-${BROWSER}.xpi
 all::	${JAR}
 
 ${JAR}:: jv/*
-	cd jv && zip ../${JAR} * */*
+	cd jv && zip -r ../${JAR} .
 
 vars::
 	@echo "VERSION=${VERSION}"
