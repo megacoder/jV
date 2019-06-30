@@ -1,21 +1,12 @@
-2013-10-27  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+* Sun Jun 30 2019 Tommy Reynolds
+- (ae79b18) Use recursive zip in lieu of "*/*" construct. (HEAD -> master, origin/master, origin/HEAD)
 
-	* : Checkpoint
+* Sun Jun 30 2019 Tommy Reynolds
+- (e64fa01) Create README.md
 
-2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
+* Thu Jun 14 2018 Tommy Reynolds
+- (cbc633b) Imported (tag: v0.51.0)
 
-	* jv/install.rdf: Changed the FF rev
-
-2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
-
-	* Makefile: How to do it to it.
-
-2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
-
-	* version.sed: How to extract the versino from the jv/install.rdf
-	file.
-
-2013-10-07  Tommy Reynolds <Tommy.Reynolds@MegaCoder.com>
-
-	* 0.51
+* Thu Jun 14 2018 Tommy Reynolds
+- (15c204a) Initial commit
 
